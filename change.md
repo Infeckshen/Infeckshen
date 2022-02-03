@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Infeckshen
+- 👀 I’m interested in music and programming
+- 🌱 I’m currently learning in university. I am learning english, c# and html with css.
+- 📫 Reach me by email thelordofshrimps@gmail.com
